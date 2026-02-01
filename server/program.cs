@@ -18,7 +18,7 @@ string group = "ИСП-232";
             string choice = Console.ReadLine();
             
             if (choice == "1")
-                Console.WriteLine("Фирсова Алексеева А.И.");
+                Console.WriteLine("Фирсова и Алексеева");
             else if (choice == "2")
                 Console.WriteLine("ИСРПО-01-22");
             else if (choice == "3")
